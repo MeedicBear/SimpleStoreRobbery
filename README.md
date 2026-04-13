@@ -78,5 +78,3 @@ police.alert
 </RobberyZones>
 </RobberyConfig>
 ```
-![banner](https://raw.githubusercontent.com/MeedicBear/legionservers-web/img/Copilot_20260414_024058.png)
-
