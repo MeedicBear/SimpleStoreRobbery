@@ -1,0 +1,19 @@
+<RobberyConfig>
+  <PolicePermission>police.alert</PolicePermission>
+
+  <RewardXP>true</RewardXP>
+  <RewardMoney>false</RewardMoney>
+  <MoneyAmount>50</MoneyAmount>
+
+  <RobberyZones>
+    <RobberyZoneData>
+      <X>100</X>
+      <Y>20</Y>
+      <Z>100</Z>
+      <Radius>6</Radius>
+      <Duration>20</Duration>
+      <RewardXP>50</RewardXP>
+      <ZoneCooldown>300</ZoneCooldown>
+    </RobberyZoneData>
+  </RobberyZones>
+</RobberyConfig>
